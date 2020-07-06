@@ -2,7 +2,7 @@ import React from 'react';
 
 const CountryPicker =()=> {
     return (
-      <h1>hello CountryPicker</h1>  
+      <h5>CountryPicker</h5>  
     )
 }
 export default CountryPicker;
